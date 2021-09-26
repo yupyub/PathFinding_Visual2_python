@@ -1,4 +1,4 @@
-# CSE4185 Assignment01: Maze Game
+# Maze Game Solver
 
 ## Implement:
 BFS와 A * Algorithm을 활용한 최단 경로 찾기 
